@@ -1,1 +1,22 @@
+.center {
+  width: 45%;
+  margin: 2em auto 0;
+}
+.center h1, form label {
+  color: #007bff;
+}
+.jumbotron {
+  padding-bottom: 1.8em;
+}
+a.btn {
 
+}
+.button {
+  margin-top: 2.5em;
+}
+.button button {
+  width: 25%;
+}
+.hide {
+  display: none;
+}
